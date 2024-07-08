@@ -6,5 +6,5 @@
   "description": "The Grammar Checker for Developers",
   "author": "Elijah Potter",
   "authorUrl": "https://elijahpotter.dev",
-  "isDesktopOnly": false
+  "isDesktopOnly": true
 }

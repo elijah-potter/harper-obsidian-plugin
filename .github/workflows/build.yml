@@ -25,3 +25,8 @@ jobs:
       run: just pull-source
     - name: Build
       run: just build
+    - name: Upload Artifact 
+      uses: actions/upload-artifact@v4
+      with: 
+        name: harper-obsidian-plugin.zip
+        path: harper-obsidian-plugin.zip

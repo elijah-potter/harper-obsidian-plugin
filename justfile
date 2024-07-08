@@ -20,3 +20,4 @@ pull-source:
 build:
   cd harper && just build-obsidian
   cp harper/packages/obsidian-plugin/main.js .
+  zip harper-obsidian-plugin.zip main.js manifest.json

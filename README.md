@@ -17,3 +17,7 @@ If you see an error, just hover over it and Harper will suggest any changes it t
 
 All of the code for the Harper Obsidian plugin lives [in the main Harper monorepo](https://github.com/elijah-potter/harper/tree/master/packages/obsidian-plugin).
 This repository exists to satisfy the [requirements](https://docs.obsidian.md/Plugins/Releasing/Submit+your+plugin) laid out by the Obsidian team for their plugins.
+
+## I have a problem or feature request...
+
+Let me know if you have any problems, feature requests, or feedback of any kind by filing an [issue on the main repository](https://github.com/elijah-potter/harper/issues/new).

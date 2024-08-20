@@ -20,4 +20,4 @@ This repository exists to satisfy the [requirements](https://docs.obsidian.md/Pl
 
 ## I have a problem or feature request...
 
-Let me know if you have any problems, feature requests, or feedback of any kind by filing an [issue on the main repository](https://github.com/elijah-potter/harper/issues/new).
+Let me know if you have any problems, feature requests, or feedback of any kind by filling out an [issue on the main repository](https://github.com/elijah-potter/harper/issues/new).

@@ -1,7 +1,7 @@
 # `harper-obsidian-plugin`
 
 [Harper](https://github.com/elijah-potter/harper) is a grammar checker for developers.
-Starting today, it's the grammar checker for everyone else, too.
+Starting today, it's the [grammar checker for everyone else, too](https://writewithharper.com/obsidian/).
 
 ![Screenshot of the Harper Plugin at work](./screenshot.webp)
 
